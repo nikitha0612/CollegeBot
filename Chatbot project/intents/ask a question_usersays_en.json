@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9845deba-7956-421a-9e6d-caaac4d2e705",
+    "data": [
+      {
+        "text": "I would like to know few details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c02ba9a5-2d41-4486-87f6-1c1639e1b0be",
+    "data": [
+      {
+        "text": "I have a query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85fc17c3-bab9-40c1-b961-bdbbd8a92777",
+    "data": [
+      {
+        "text": "would you please like to answer my question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e32a6622-c350-4a92-8636-d1e2459bf1d4",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aea97bea-2d2b-4ea1-8c05-35ea535c92af",
+    "data": [
+      {
+        "text": "Can i ask you a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

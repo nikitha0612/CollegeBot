@@ -1,0 +1,71 @@
+{
+  "id": "11277884-bf1e-4b71-af39-91fa9b74008e",
+  "name": "ask a question",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5db0b17a-06dc-469c-a918-367f6bee14a6",
+          "required": true,
+          "dataType": "@question",
+          "name": "question",
+          "value": "$doubt",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure what would you like to know?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "d4b8ce22-ba27-44f8-a5be-db2ac46f7028",
+          "required": true,
+          "dataType": "@question",
+          "name": "query",
+          "value": "$query",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sure ! let me know your query"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sure  let me know your question",
+            "How can I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
