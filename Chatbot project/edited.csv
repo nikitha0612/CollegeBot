@@ -1,0 +1,3 @@
+IntentID,IntentName,Query,Response
+1,agent.placement,placement data,http://bvrithyderabad.edu.in/placement-details/
+2,agent.placement,placement data,http://bvrithyderabad.edu.in/placement-details/

@@ -1,0 +1,5 @@
+IntentID,IntentName,Query,Response
+1711,marks.agent.marks,1711 marks,70
+,marks.agent.attendance,1711 attendance,80
+1712,marks.agent.marks,1712 marks,90
+,marks.agent.attendance,1712 attendance ,75
